@@ -10,7 +10,7 @@ Syph uses OpenCV and MediaPipe to map facial landmarks, overlaying a custom dyst
 ![Syph Profiler View](https://github.com/Kwystt/Syph/blob/fbe1674e004e9c9ae1cad9501713f38f0ea74e78/profiler.png)
 
 *(HUD element detail and dynamic text rendering)*
-![HUD Overlay Detail]()
+![HUD Overlay Detail](https://github.com/Kwystt/Syph/blob/14e66d29c53422b9984d8c5443b3f5c71ba47e3b/hud.png)
 
 ## Core Features
 *   **Real-Time Tracking:** Utilizes MediaPipe's facial mesh to lock onto subjects dynamically.
