@@ -13,11 +13,11 @@ Syph uses OpenCV and MediaPipe to map facial landmarks, overlaying a custom dyst
 ![HUD Overlay Detail](https://github.com/Kwystt/Syph/blob/14e66d29c53422b9984d8c5443b3f5c71ba47e3b/hud.png)
 
 ## Core Features
-*   **Real-Time Tracking:** Utilizes MediaPipe's facial mesh to lock onto subjects dynamically.
-*   **Custom HUD Overlays:** Renders crosshairs, bounding boxes, and dynamic text fields directly onto the video feed.
+*   **Real-Time Tracking Simulation:** Utilizes MediaPipe's facial mesh to lock onto subjects dynamically.
+*   **Custom HUD Overlays:** Renders crosshairs, bounding boxes, and dynamic text fields directly onto the video feed to simulate a CCTV feel.
 *   **Anonymization Filter:** Applies dynamic pixelation masking over the tracked facial region.
-*   **Simulated OS Environment:** Features faux error states ("Facial recognition failed") and null data readouts for a cyberpunk aesthetic.
-*   **Keyboard Controls:** Map custom inputs (e.g., zoom in/out, exit) directly through the interface.
+*   **Simulated OS Environment:** Features faux error states ("Facial recognition failed") and null data readouts for a cyberpunk/hacker aesthetic.
+*   **Keyboard Controls:** Map custom inputs (e.g., zoom in/out, exit) directly through the interface, to exit simply click esc.
 
 ## Tech Stack
 *   **Python 3.x**
